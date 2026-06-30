@@ -1,31 +1,93 @@
-- 👋 Hi, I’m @harshita1362
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-<details>	
- <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
-<div style='display:flex; align-items:center; gap: 30px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/8.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Code%20Luminary.png" width="105px" height="105px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" /></a>
-</div>
+# Hi there! 👋 I'm Harshita Dang
+
+## Machine Learning Researcher | AI Security | Deep Learning
+
+🎓 M.Tech in Cybersecurity @ NIT Kurukshetra
+
+I am passionate about building intelligent systems that solve real-world cybersecurity challenges using Artificial Intelligence and Deep Learning.
+
+My research focuses on **AI for Cybersecurity**, **Computer Vision**, **Deep Learning**, and **Nature-Inspired Optimization**.
+
+---
+
+## 🔬 Research Interests
+
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- AI Security
+- Deepfake Detection
+- Malware & Ransomware Analysis
+- Explainable AI
+- Optimization Algorithms
+
+---
+
+## 🚀 Current Research
+
+- 🧠 Deepfake Detection using Vision Transformers *(Ongoing)*
+- 🔐 Deep Learning-based Ransomware Family Classification
+- ⚙️ Nature-Inspired Optimization for Feature Selection
+- 🤖 AI Security Assistant (CyberGPT) *(In Development)*
+
+---
+
+## 📄 Publications
+
+- ✅ International Conference Paper (SocProS 2025)
+- 📝 Deepfake Detection — Manuscript in Preparation
+- 📝 AI-based Ransomware Detection — Under Submission
+- 📝 Optimization Framework for AI Security — In Preparation
+
+---
+
+## 💻 Technical Skills
+
+**Programming:** Python • SQL • C++
+
+**Machine Learning:** Scikit-learn • TensorFlow • Keras
+
+**Deep Learning:** CNN • Transformers • Autoencoders • Vision Transformers
+
+**Computer Vision:** OpenCV
+
+**Tools:** Git • Linux • Power BI
+
+---
+
+## 🌱 Currently Learning
+
+- PyTorch
+- Hugging Face Transformers
+- LangChain
+- MLOps
+- Large Language Models (LLMs)
+
+---
+
+## 🏆 Open Source Contributions
+
+- 🌟 **GirlScript Summer of Code (GSSoC) 2024 Contributor**
+- 🤝 Passionate about contributing to open-source AI, Machine Learning, and Cybersecurity projects.
+
+<details>
+<summary><b>🏅 GSSoC 2024 Badges</b></summary>
+
+*(Paste your existing badge HTML here exactly as it is.)*
+
 </details>
-## How do I get all in a single line...?
-To increase spacing between, each images update `gap: 10px` to a higher value such as `gap: 20px`.
-To have all of them center aligned, use this
-<!---
-harshita1362/harshita1362 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+---
+
+## 📫 Connect With Me
+
+📧 **Email:** harshita1362@gmail.com
+
+💼 **LinkedIn:** *(Add your profile link)*
+
+💻 **GitHub:** https://github.com/harshita1362
+
+---
+
+⭐ *"Building trustworthy AI systems for the future of cybersecurity."*
