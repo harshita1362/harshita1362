@@ -84,7 +84,7 @@ My research focuses on **AI for Cybersecurity**, **Computer Vision**, **Deep Lea
 
 📧 **Email:** harshita1362@gmail.com
 
-💼 **LinkedIn:** *(Add your profile link)*
+💼 **LinkedIn:** https://www.linkedin.com/in/harshita-ba61032a5
 
 💻 **GitHub:** https://github.com/harshita1362
 
