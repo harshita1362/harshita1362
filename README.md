@@ -25,7 +25,6 @@ My research focuses on **AI for Cybersecurity**, **Computer Vision**, **Deep Lea
 ---
 
 ## 🚀 Current Research
-
 - 🧠 Deepfake Detection using Vision Transformers *(Ongoing)*
 - 🔐 Deep Learning-based Ransomware Family Classification
 - ⚙️ Nature-Inspired Optimization for Feature Selection
@@ -34,8 +33,9 @@ My research focuses on **AI for Cybersecurity**, **Computer Vision**, **Deep Lea
 ---
 
 ## 📄 Publications
-
-- ✅ International Conference Paper (SocProS 2025, ICST 2026, ICIC3S-2026)
+- ✅ International Conference Paper (SocProS 2025)
+- ✅ International Conference Paper (ICST 2026)
+- ✅ International Conference Paper (ICIC3S-2026)
 - 📝 Deepfake Detection — Manuscript in Preparation
 - 📝 AI-based Ransomware Detection — Under Submission
 - 📝 Optimization Framework for AI Security — In Preparation
