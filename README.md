@@ -35,7 +35,7 @@ My research focuses on **AI for Cybersecurity**, **Computer Vision**, **Deep Lea
 
 ## 📄 Publications
 
-- ✅ International Conference Paper (SocProS 2025)
+- ✅ International Conference Paper (SocProS 2025, ICST 2026, ICIC3S-2026)
 - 📝 Deepfake Detection — Manuscript in Preparation
 - 📝 AI-based Ransomware Detection — Under Submission
 - 📝 Optimization Framework for AI Security — In Preparation
