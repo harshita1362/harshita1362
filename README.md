@@ -54,57 +54,18 @@ My research interests lie at the intersection of:
 | 🔐 | **Cybersecurity** | **TryHackMe** | https://tryhackme.com/p/harshita1362 |
 <!-- ===================== CODE PROFILE ===================== -->
 
-## 💻 `whoami`
+---
 
-```python
-class HarshitaDang:
+<!-- ===================== PUBLICATIONS ===================== -->
 
-    name = "Harshita Dang"
-    role = "Machine Learning Researcher"
+## 📚 Publications & Research
 
-    education = {
-        "degree": "M.Tech in Cybersecurity",
-        "institute": "NIT Kurukshetra"
-    }
-
-    research = [
-        "Machine Learning",
-        "Deep Learning",
-        "AI Security",
-        "Ransomware Classification",
-        "Computer Vision",
-        "Explainable AI",
-        "Nature-Inspired Optimization"
-    ]
-
-    programming = [
-        "Python",
-        "SQL",
-        "C++"
-    ]
-
-    machine_learning = [
-        "Scikit-learn",
-        "TensorFlow",
-        "Keras",
-        "PyTorch"
-    ]
-
-    tools = [
-        "Git",
-        "Linux",
-        "Power BI",
-        "Google Colab"
-    ]
-
-    currently_learning = [
-        "PyTorch",
-        "Vision Transformers",
-        "Generative AI"
-    ]
-
-    goal = "Build AI systems for real-world security problems"
-```
+- ✅ International Conference Paper — **SoftPros 2025**
+- ✅ International Conference Paper — **ICST 2026**
+- ✅ International Conference Paper — **ICICCS 2026**
+- 📝 Deepfake Detection — Manuscript in Preparation
+- 📝 AI-based Ransomware Detection — Under Submission
+- 📝 Optimization Framework for AI Security — In Preparation
 
 ---
 
@@ -135,21 +96,6 @@ class HarshitaDang:
 - 🔐 **AI-based Cybersecurity Solutions**
 - 🤖 **Intelligent Security Assistant**
 
----
-
-<!-- ===================== PUBLICATIONS ===================== -->
-
-## 📚 Publications & Research
-
-- ✅ International Conference Paper — **SoftPros 2025**
-- ✅ International Conference Paper — **ICST 2026**
-- ✅ International Conference Paper — **ICICCS 2026**
-- 📝 Deepfake Detection — Manuscript in Preparation
-- 📝 AI-based Ransomware Detection — Under Submission
-- 📝 Optimization Framework for AI Security — In Preparation
-
----
-
 <!-- ===================== EXPERIENCE ===================== -->
 
 ## 💼 Experience
@@ -158,12 +104,12 @@ class HarshitaDang:
 
 **Technology / Automation Intern**
 
-- 🐍 Developed Python-based automation solutions for Excel workflows.
-- 📊 Built Power BI dashboards for testing and reporting.
-- ⚙️ Worked with automation and data-processing technologies.
-- 🧪 Supported SIT/UAT, defect tracking and production activities.
-- 🔐 Developed tools related to security and EUC governance.
-- 🛠️ Worked with Python, Excel, Power BI and enterprise automation tools.
+-  Developed Python-based automation solutions for Excel workflows.
+-  Built Power BI dashboards for testing and reporting.
+-  Worked with automation and data-processing technologies.
+-  Supported SIT/UAT, defect tracking and production activities.
+-  Developed tools related to security and EUC governance.
+-  Worked with Python, Excel, Power BI and enterprise automation tools.
 
 ---
 
@@ -265,51 +211,6 @@ spaces using OpenCV.
 
 ---
 
-<!-- ===================== GITHUB STATS ===================== -->
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshita1362&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshita1362&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshita1362&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-<!-- ===================== CONTRIBUTIONS ===================== -->
-
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/harshita1362/harshita1362/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-<!-- ===================== CONNECT ===================== -->
-
-## 🤝 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/harshita-ba61032a5">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-</a>
-
-<a href="https://github.com/harshita1362">
-  <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
-</a>
-
-</p>
-
----
 
 <h3 align="center">
   🔐 Building Intelligent Systems for a More Secure Digital World
