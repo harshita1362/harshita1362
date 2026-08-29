@@ -36,7 +36,22 @@ My research interests lie at the intersection of:
 - ⚙️ Nature-Inspired Optimization
 
 ---
+## 🌐 Profiles & Links
+> A collection of my professional, research, coding, and cybersecurity profiles.
 
+| | Type | Platform | Direct Link |
+|:---:|:---|:---|:---|
+| 💼 | **Professional** | **LinkedIn** | https://www.linkedin.com/in/harshita-ba61032a5 |
+| 💻 | **Professional** | **GitHub** | https://github.com/harshita1362 |
+| 🎓 | **Research** | **Google Scholar** | https://scholar.google.com/citations?user=qmYBkDYAAAAJ&hl=en |
+| 📚 | **Research** | **ResearchGate** | https://www.researchgate.net/profile/Harshita-Dang |
+| 🧩 | **Coding** | **LeetCode** | https://leetcode.com/harshita1362/ |
+| 📗 | **Coding** | **GeeksforGeeks** | https://www.geeksforgeeks.org/profile/harshita1362 |
+| 🏆 | **Coding** | **HackerRank** | https://www.hackerrank.com/harshita1362 |
+| 🌐 | **Coding** | **HackerEarth** | https://www.hackerearth.com/@harshita1362 |
+| 👨‍💻 | **Competitive Programming** | **CodeChef** | https://www.codechef.com/users/harshita1362 |
+| ⚔️ | **Competitive Programming** | **Codeforces** | https://codeforces.com/profile/harshita1362 |
+| 🔐 | **Cybersecurity** | **TryHackMe** | https://tryhackme.com/p/harshita1362 |
 <!-- ===================== CODE PROFILE ===================== -->
 
 ## 💻 `whoami`
