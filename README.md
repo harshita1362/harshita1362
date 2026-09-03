@@ -26,48 +26,61 @@ and Deep Learning**.
 
 My research interests lie at the intersection of:
 
-- 🤖 Artificial Intelligence
-- 🧠 Machine Learning
-- 🔐 Cybersecurity
-- 🧬 Deep Learning
-- 👁️ Computer Vision
-- 🦠 Malware & Ransomware Analysis
-- 🔎 Explainable AI
-- ⚙️ Nature-Inspired Optimization
+- Artificial Intelligence
+- Machine Learning
+- Cybersecurity
+- Deep Learning
+- Computer Vision
+- Malware & Ransomware Analysis
+- Explainable AI
+- Nature-Inspired Optimization
 
 ---
 ## 🌐 Profiles & Links
 > A collection of my professional, research, coding, and cybersecurity profiles.
 
-| | Type | Platform | Direct Link |
-|:---:|:---|:---|:---|
-| 💼 | **Professional** | **LinkedIn** | https://www.linkedin.com/in/harshita-ba61032a5 |
-| 💻 | **Professional** | **GitHub** | https://github.com/harshita1362 |
-| 🎓 | **Research** | **Google Scholar** | https://scholar.google.com/citations?user=qmYBkDYAAAAJ&hl=en |
-| 📚 | **Research** | **ResearchGate** | https://www.researchgate.net/profile/Harshita-Dang |
-| 🧩 | **Coding** | **LeetCode** | https://leetcode.com/harshita1362/ |
-| 📗 | **Coding** | **GeeksforGeeks** | https://www.geeksforgeeks.org/profile/harshita1362 |
-| 🏆 | **Coding** | **HackerRank** | https://www.hackerrank.com/harshita1362 |
-| 🌐 | **Coding** | **HackerEarth** | https://www.hackerearth.com/@harshita1362 |
-| 👨‍💻 | **Competitive Programming** | **CodeChef** | https://www.codechef.com/users/harshita1362 |
-| ⚔️ | **Competitive Programming** | **Codeforces** | https://codeforces.com/profile/harshita1362 |
-| 🔐 | **Cybersecurity** | **TryHackMe** | https://tryhackme.com/p/harshita1362 |
-<!-- ===================== CODE PROFILE ===================== -->
+| No. | Section | Platform | Direct Link |
+|---:|---|---|---|
+| 1.1 | Professional | LinkedIn | https://www.linkedin.com/in/harshita-ba61032a5 |
+| 1.2 | Professional | GitHub | https://github.com/harshita1362 |
+| 2.1 | Research & ML | Google Scholar | https://scholar.google.com/citations?user=qmYBkDYAAAAJ&hl=en |
+| 2.2 | Research & ML | ResearchGate | https://www.researchgate.net/profile/Harshita-Dang |
+| 2.3 | Research & ML | Kaggle | https://www.kaggle.com/harshita1362 |
+| 2.4 | Research & ML | Hugging Face | https://huggingface.co/harshita1362 |
+| 3.1 | Cybersecurity | TryHackMe | https://tryhackme.com/p/harshita1362 |
+| 3.2 | Cybersecurity | Hack The Box | https://profile.hackthebox.com/profile/01a05e6c-f49a-7027-b7e6-7b622e7b2520 |
+| 3.3 | Cybersecurity | PortSwigger | https://portswigger.net/web-security/dashboard |
+| 4.1 | Coding & Problem Solving | LeetCode | https://leetcode.com/harshita1362/ |
+| 4.2 | Coding & Problem Solving | GeeksforGeeks | https://www.geeksforgeeks.org/profile/harshita1362 |
+| 4.3 | Coding & Problem Solving | HackerRank | https://www.hackerrank.com/harshita1362 |
+| 4.4 | Coding & Problem Solving | HackerEarth | https://www.hackerearth.com/@harshita1362 |
+| 4.5 | Coding & Problem Solving | CodeChef | https://www.codechef.com/users/harshita1362 |
+| 4.6 | Coding & Problem Solving | Codeforces | https://codeforces.com/profile/harshita1362 |
+| 5.1 | Writing & Content | Medium | https://medium.com/@harshita1362 |
 
----
+## 🏆 ACHIEVEMENTS
 
-<!-- ===================== PUBLICATIONS ===================== -->
+> Highlights of my academic, research, technical, and professional journey.
 
-## 📚 Publications & Research
+**1. 🎓 GATE Qualification** — GATE 2022 *(AIR: 7500)* · GATE 2024 *(AIR: 5017)*
 
-- ✅ International Conference Paper — **SoftPros 2025**
-- ✅ International Conference Paper — **ICST 2026**
-- ✅ International Conference Paper — **ICICCS 2026**
-- 📝 Deepfake Detection — Manuscript in Preparation
-- 📝 AI-based Ransomware Detection — Under Submission
-- 📝 Optimization Framework for AI Security — In Preparation
+**2. 📚 Research Publications** — **3 research papers presented at international conferences** *(SoftPros 2025 · ICST 2026 · ICIC3S 2026)*
 
----
+## 📚 PUBLICATIONS
+
+> 3 International Conference Publications
+
+**1. Assessing the Impact of FGSM Adversarial Attack on Convolutional Neural Networks in X-ray Images**  
+*13th International Conference on Soft Computing for Problem Solving (SocProS 2025) — IIT Roorkee*  
+**Presented and published.**
+
+**2. An Empirical Study of Deep Learning Models for Multi-Class Ransomware Classification**  
+*International Conference on Intelligent Computing and Sustainable Technologies (ICST 2026) — IIT Patna*  
+**Presented at the conference** and accepted for publication in **Springer Lecture Notes in Networks and Systems (LNNS)**, Scopus-indexed.
+
+**3. A Comparative Study on Multi-Class Ransomware Classification Using Predictive Models**  
+*International Conference on Intelligent Computing, Communication, Control and Security (ICIC3S 2026) — IIIT Una*  
+**Presented at the conference** and to be published in the **IEEE Xplore Digital Library**.
 
 <!-- ===================== RESEARCH ===================== -->
 
