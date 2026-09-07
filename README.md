@@ -72,7 +72,7 @@ My research interests lie at the intersection of:
 
 **1. Assessing the Impact of FGSM Adversarial Attack on Convolutional Neural Networks in X-ray Images**  
 *13th International Conference on Soft Computing for Problem Solving (SocProS 2025) — IIT Roorkee*  
-**Presented and published.**
+**Presented and published as a Springer book chapter in Machine Learning and Its Applications to Healthcare, part of the Mathematics for Sustainable Developments (MSD) series.**
 
 **2. An Empirical Study of Deep Learning Models for Multi-Class Ransomware Classification**  
 *International Conference on Intelligent Computing and Sustainable Technologies (ICST 2026) — IIT Patna*  
