@@ -43,7 +43,7 @@ My research interests lie at the intersection of:
 |---:|---|---|---|
 | 1.1 | Professional | LinkedIn | https://www.linkedin.com/in/harshita-ba61032a5 |
 | 1.2 | Professional | GitHub | https://github.com/harshita1362 |
-| 1.3 | Professional | Unstop | [Unstop](https://unstop.com/u/harshita1362)|
+| 1.3 | Professional | Unstop | https://unstop.com/u/harshita1362 |
 | 2.1 | Research & ML | Google Scholar | https://scholar.google.com/citations?user=qmYBkDYAAAAJ&hl=en |
 | 2.2 | Research & ML | ResearchGate | https://www.researchgate.net/profile/Harshita-Dang |
 | 2.3 | Research & ML | Kaggle | https://www.kaggle.com/harshita1362 |
