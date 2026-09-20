@@ -1,39 +1,60 @@
 <!-- ===================== HEADER ===================== -->
 
 <h1 align="center">
-  👋 Hi there, I'm Harshita Dang
+  Harshita Dang
 </h1>
 
 <h3 align="center">
-  🔐 Machine Learning Researcher | AI Security | Deep Learning
+  🔐 Cybersecurity · 🤖 AI/ML Research · 💻 Programming · 📊 Data & Automation
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Machine+Learning+Researcher;Cybersecurity+%7C+Deep+Learning;AI+for+Cybersecurity;Ransomware+%26+Malware+Analysis;Computer+Vision+%26+Explainable+AI" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=750&lines=AI%2FML+Research+for+Cybersecurity;Machine+Learning+%26+Deep+Learning;Ransomware+Detection+%26+Classification;Data+Analytics+%26+Automation;Programming+%26+Problem+Solving" />
 </p>
 
 ---
 
 <!-- ===================== ABOUT ME ===================== -->
 
-## 🧑‍💻 About Me
+## 👩‍💻 About Me
 
-🎓 **M.Tech in Cybersecurity @ NIT Kurukshetra**
+I'm a **Cybersecurity professional and AI/ML researcher** with an M.Tech in Cybersecurity from **NIT Kurukshetra**, focused on applying Machine Learning and Deep Learning to real-world security challenges.
 
-I am passionate about building intelligent systems that solve
-real-world cybersecurity challenges using **Artificial Intelligence
-and Deep Learning**.
+- 🔬 Researching **AI/ML for Cybersecurity**, with a focus on **ransomware detection and multi-class classification**.
+- 🤖 Hands-on experience with **Machine Learning, Deep Learning, Data Analytics, and Nature-Inspired Optimization**.
+- 💻 Passionate about **programming and problem-solving**, with experience building practical solutions using **Python and C++**.
+- 🧠 Experienced in **Python-based automation, data-driven solutions, and security-focused applications**.
+- 📊 Worked with **Machine Learning, Big Data, Power BI, and enterprise data workflows**.
+- 📚 Interested in **AI Safety, trustworthy AI, cybersecurity research, and intelligent security systems**.
+- 🚀 Building projects and research that combine **AI, cybersecurity, and automation**.
 
-My research interests lie at the intersection of:
+---
+<!-- ===================== EXPERIENCE ===================== -->
+## 💼 Experience
 
-- Artificial Intelligence
-- Machine Learning
-- Cybersecurity
-- Deep Learning
-- Computer Vision
-- Malware & Ransomware Analysis
-- Explainable AI
-- Nature-Inspired Optimization
+**🏦 Analyst Intern — HSBC | Gurugram**                                           *[Jul 2025 – Jun 2026 · 11 Months]*
+
+- Developed **22+ Python automation solutions** using Pandas, xlwings, and OpenPyXL to streamline enterprise data workflows.
+- Built **6+ Power BI dashboards** using MS Access and SharePoint data pipelines for testing analytics and reporting.
+- Developed **Tkinter-based security and governance tools** for automated control checks, data protection, version control, and compliance.
+- Supported **SIT/UAT, deployment, data validation, and documentation** across enterprise workflows.
+
+**Tech:** `Python` `Pandas` `Power BI` `SQL` `MS Access` `SharePoint` `xlwings` `OpenPyXL` `Tkinter`
+
+**🎓 Teaching Assistant — NIT Kurukshetra**  *[Aug 2024 – Jun 2025 · 10 Months]*
+
+- Conducted **laboratory sessions and viva examinations** for **Machine Learning and Big Data** courses.
+- Guided students in **ML concepts, programming, practical implementations, and data-driven problem solving**.
+- Assisted faculty with **student assessments, academic activities, and course management**.
+
+**Focus:** `Machine Learning` `Big Data` `Deep Learning` `Python` `Data Analytics` `Cybersecurity`
+
+**🔐 Cybersecurity Intern — Connecting Dreams Foundation | Remote**  *[Oct 2024 – Nov 2024 · 1 Month]*
+
+- Developed a **Python-based image steganography system** using OpenCV for secure message embedding and extraction.
+- Built security-focused applications involving **event logging and data handling**.
+
+**Tech:** `Python` `OpenCV` `Tkinter` `Cybersecurity`
 
 ---
 ## 🌐 Profiles & Links
@@ -59,6 +80,8 @@ My research interests lie at the intersection of:
 | 4.6 | Coding & Problem Solving | Codeforces | https://codeforces.com/profile/harshita1362 |
 | 5.1 | Writing & Content | Medium | https://medium.com/@harshita1362 |
 
+---
+
 ## 🏆 ACHIEVEMENTS
 
 > Highlights of my academic, research, technical, and professional journey.
@@ -67,6 +90,7 @@ My research interests lie at the intersection of:
 
 **2. 📚 Research Publications** — **3 research papers presented at international conferences** *(SoftPros 2025 · ICST 2026 · ICIC3S 2026)*
 
+---
 ## 📚 PUBLICATIONS
 
 > 3 International Conference Publications
@@ -83,6 +107,7 @@ My research interests lie at the intersection of:
 *International Conference on Intelligent Computing, Communication, Control and Security (ICIC3S 2026) — IIIT Una*  
 **Presented at the conference** and to be published in the **IEEE Xplore Digital Library**.
 
+---
 <!-- ===================== RESEARCH ===================== -->
 
 ## 🔬 Research Interests
@@ -110,23 +135,7 @@ My research interests lie at the intersection of:
 - 🔐 **AI-based Cybersecurity Solutions**
 - 🤖 **Intelligent Security Assistant**
 
-<!-- ===================== EXPERIENCE ===================== -->
-
-## 💼 Experience
-
-### HSBC
-
-**Technology / Automation Intern**
-
--  Developed Python-based automation solutions for Excel workflows.
--  Built Power BI dashboards for testing and reporting.
--  Worked with automation and data-processing technologies.
--  Supported SIT/UAT, defect tracking and production activities.
--  Developed tools related to security and EUC governance.
--  Worked with Python, Excel, Power BI and enterprise automation tools.
-
 ---
-
 <!-- ===================== TECH STACK ===================== -->
 
 ## 🛠️ Technical Skills
@@ -182,16 +191,12 @@ Machine Learning framework for ransomware family classification using:
 - Random Forest
 - Explainable AI / SHAP
 
----
-
 ### 🔐 EUC Security Analyzer
 
 A Python/Tkinter-based solution for analyzing EUC governance and
 security-related controls.
 
 **Technologies:** Python • Tkinter • Pandas • Excel
-
----
 
 ### 🔓 DLock — Excel Protection Utility
 
@@ -200,8 +205,6 @@ protected Excel workbooks while handling different worksheet/workbook
 protection scenarios.
 
 **Technologies:** Python • Tkinter • Excel Automation
-
----
 
 ### 🅿️ Parking Space Counter
 
