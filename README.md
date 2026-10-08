@@ -90,6 +90,24 @@ I'm a **Cybersecurity professional and AI/ML researcher** with an M.Tech in Cybe
 
 **2. 📚 Research Publications** — **3 research papers presented at international conferences** *(SoftPros 2025 · ICST 2026 · ICIC3S 2026)*
 
+**3. 🎯 McKinsey.org Forward Program** — *Selected for the 2026 cohort, a competitive professional development program focused on building leadership, problem-solving, and workplace skills*
+
+---
+
+## 🎓 Education
+
+- **M.Tech in Cybersecurity** — National Institute of Technology, Kurukshetra  
+  *2024–2026 · CGPA: 8.96/10*
+
+- **B.Tech in Computer Science Engineering** — University Institute of Engineering & Technology (UIET), Kurukshetra  
+  *2019–2023 · CGPA: 8.56/10*
+
+- **Class XII** — Aggarsain Public School, Kurukshetra  
+  *2019 · 92.4%*
+
+- **Class X** — Aggarsain Public School, Kurukshetra  
+  *2017 · CGPA: 10/10*
+
 ---
 ## 📚 PUBLICATIONS
 
